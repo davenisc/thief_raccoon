@@ -129,6 +129,18 @@ Open your browser and go to http://127.0.0.1:5000 or the ngrok public URL.
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+**ScreenShots**
+
+<a href="https://ibb.co/pW8ZF4p"><img src="https://i.ibb.co/DGyk2wn/Captura-de-pantalla-2024-05-23-111751.png" alt="Captura-de-pantalla-2024-05-23-111751" border="0"></a>
+
+<a href="https://ibb.co/tcwRjPh"><img src="https://i.ibb.co/2P0JVY6/Captura-de-pantalla-2024-05-23-111817.png" alt="Captura-de-pantalla-2024-05-23-111817" border="0"></a>
+
+<a href="https://ibb.co/KjYk72D"><img src="https://i.ibb.co/mCmwt90/Captura-de-pantalla-2024-05-23-111841.png" alt="Captura-de-pantalla-2024-05-23-111841" border="0"></a>
+
+<a href="https://ibb.co/Wy9MBtt"><img src="https://i.ibb.co/yyTZgSS/Captura-de-pantalla-2024-05-23-111900.png" alt="Captura-de-pantalla-2024-05-23-111900" border="0"></a>
+
+<a href="https://ibb.co/Qf7kKMJ"><img src="https://i.ibb.co/c1KwrQy/Captura-de-pantalla-2024-05-23-111937.png" alt="Captura-de-pantalla-2024-05-23-111937" border="0"></a>
+
 **Credits**
 
 Developer: @davenisc
