@@ -94,7 +94,7 @@ After running the above command, ngrok will provide you with a public URL. Share
 3. Put your app online at ephemeral domain Forwarding to your upstream service. For example, if it is listening on port http://localhost:8080, run:
 
       ```bash
-      ngrok http http://localhost:8080
+      ngrok http http://localhost:5000
 
 **Example**
 
