@@ -59,6 +59,30 @@ Download ngrok from ngrok.com and follow the installation instructions for your 
 
 After running the above command, ngrok will provide you with a public URL. Share this URL with your test subjects to access the phishing page over the internet.
 
+**How to install Ngrok on Linux?**
+
+Install ngrok via Apt with the following command:
+
+      ```bash
+      curl -s https://ngrok-agent.s3.amazonaws.com/ngrok.asc \
+      	| sudo tee /etc/apt/trusted.gpg.d/ngrok.asc >/dev/null \
+      	&& echo "deb https://ngrok-agent.s3.amazonaws.com buster main" \
+      	| sudo tee /etc/apt/sources.list.d/ngrok.list \
+      	&& sudo apt update \
+      	&& sudo apt install ngrok
+
+Run the following command to add your authtoken to the default ngrok.yml
+
+      ```bash
+      ngrok config add-authtoken xxxxxxxxx--your-token-xxxxxxxxxxxxxx
+
+**Deploy your app online**
+
+Put your app online at ephemeral domain Forwarding to your upstream service. For example, if it is listening on port http://localhost:8080, run:
+
+      ```bash
+      ngrok http http://localhost:8080
+
 **Example**
 
 1. **Run the main script:**
