@@ -169,7 +169,7 @@ Web: https://davenisc.com
     </a>
 
    <h2>Donate USDT</h2>
-    <p>If you would like to support this project with a USDT donation, you can send it to the following Binance wallet address:</p>
+    <p>If you would like to support this project with a USDT BEP-20 donation, you can send it to the following Binance wallet address:</p>
     <pre>0x15283841da6b5099d991fd64fdcb302478f4cc5a</pre>
 
 
