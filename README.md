@@ -25,13 +25,18 @@ Thief Raccoon is a tool designed for educational purposes to demonstrate how phi
    git clone https://github.com/davenisc/thief_raccoon.git
    cd thief_raccoon
 
-2. **Create venv:**
+2. Install python venv
+   
+   ```bash
+   apt install python3.11-venv
+
+3. **Create venv:**
 
    ```bash
    python -m venv raccoon_venv
    source raccoon_venv/bin/activate
 
-3. **Install the required libraries:**
+4. **Install the required libraries:**
    
    ```bash
    pip install -r requirements.txt
