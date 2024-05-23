@@ -30,6 +30,17 @@ Thief Raccoon is a tool designed for educational purposes to demonstrate how phi
    ```bash
    pip install -r requirements.txt
 
+3. **Create venv:**
+
+   ```bash
+   python -m venv raccoon_venv
+   source raccoon_venv/bin/activate
+
+4. **Requirements:**
+5. 
+   ```bash
+   pip install -r requirements.txt
+
 **Usage**
 
 1. **Run the main script:**
