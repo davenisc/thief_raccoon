@@ -1,0 +1,101 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: url('../images/windows11-background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    color: white;
+    text-align: center;
+}
+
+.login-container {
+    background: none;
+    padding: 0;
+    border-radius: 10px;
+    box-shadow: none;
+    width: 300px;
+}
+
+.login-avatar {
+    margin-bottom: 20px;
+}
+
+.login-avatar img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.login-container h1 {
+    margin: 10px 0 20px;
+    font-size: 24px;
+}
+
+.login-container input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.password-container {
+    display: flex;
+    align-items: center;
+}
+
+.password-container input {
+    flex: 1;
+}
+
+.password-submit {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.password-submit img {
+    width: 24px;
+    height: 24px;
+}
+
+.login-options {
+    margin-top: 20px;
+}
+
+.login-options a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    margin: 5px 0;
+    font-size: 14px;
+}
+
+.login-options a:hover {
+    text-decoration: underline;
+}
+
+/* Estilo para los iconos en la parte inferior */
+.bottom-icons {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.bottom-icons img {
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+/* Ocultar botones en formularios */
+.hidden {
+    display: none;
+}
