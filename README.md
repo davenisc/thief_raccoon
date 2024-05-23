@@ -2,6 +2,8 @@
 
 Thief Raccoon is a tool designed for educational purposes to demonstrate how phishing attacks can be conducted on various operating systems. This tool is intended to raise awareness about cybersecurity threats and help users understand the importance of security measures like 2FA and password management.
 
+<a href="https://ibb.co/L0Zn2XP"><img src="https://i.ibb.co/3TCBL9s/Captura-de-pantalla-2024-05-23-111620.png" alt="Captura-de-pantalla-2024-05-23-111620" border="0"></a>
+
 ## Features
 
 - Phishing simulation for Windows 10, Windows 11, Windows XP, Windows Server, Ubuntu, Ubuntu Server, and macOS.
