@@ -131,7 +131,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 **ScreenShots**
 
-<a href="https://ibb.co/pW8ZF4p"><img src="https://i.ibb.co/DGyk2wn/Captura-de-pantalla-2024-05-23-111751.png" alt="Captura-de-pantalla-2024-05-23-111751" border="0"></a>
+<a href="https://ibb.co/mcNh32n"><img src="https://i.ibb.co/S3fVzMk/Captura-de-pantalla-2024-05-23-111751.png" alt="Captura-de-pantalla-2024-05-23-111751" border="0"></a>
 
 <a href="https://ibb.co/tcwRjPh"><img src="https://i.ibb.co/2P0JVY6/Captura-de-pantalla-2024-05-23-111817.png" alt="Captura-de-pantalla-2024-05-23-111817" border="0"></a>
 
